@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Micro 2"
-theme = "hugo-book-master"
