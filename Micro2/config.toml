@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://peteawag.github.io/Microeconomics2/"
 languageCode = "en-us"
 title = "Micro 2"
 theme = "hugo-book-master"
